@@ -1,13 +1,4 @@
-# Sample Hardhat Project
+# [WIP] Mint an NFT Collection with On-Chain metadata on Goerli
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project demonstrates an NFT Minter that is deployed on Goerli, using SVG stored as base64 on-chain.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
